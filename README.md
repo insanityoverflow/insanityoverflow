@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @insanityoverflow
+- 👀 I’m interested in web development/scripting/reverse engineering
+- 🌱 I’m currently learning C++ and assembly
+- 📫 How to reach me:
+  - Discord: `insanityoverflow` 
+- 😄 Pronouns: he/him
